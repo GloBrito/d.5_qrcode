@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@900&family=Outfit:wght@400;700&display=swap');
+
 .container{
    height: 100%;
    display: flex;
@@ -8,8 +10,8 @@
 
 .codigo-qr{
     background-color: #fff;
-    width: 400px;
-    height: 650px;
+    width: 380px;
+    height: 620px;
     border-radius: 5%;
 }
 
@@ -18,8 +20,25 @@
 
 }
 
-.music{
+.code{
     width: 100%;
-
     border-radius: 5%;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Outfit', sans-serif;
+    color: #213152;
+    padding: 8%;
+    font-weight: 700;
+}
+
+.sub-titulo{
+    text-align: center;
+    color: #9b9fa8;
+    padding: 0 15%;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    
 }

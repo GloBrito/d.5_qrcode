@@ -1,0 +1,25 @@
+.container{
+   height: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   background-color: #d5e1ef;
+}
+
+.codigo-qr{
+    background-color: #fff;
+    width: 400px;
+    height: 650px;
+    border-radius: 5%;
+}
+
+.alinhamento{
+    padding: 10px;
+
+}
+
+.music{
+    width: 100%;
+
+    border-radius: 5%;
+}
